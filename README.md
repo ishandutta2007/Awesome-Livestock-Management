@@ -70,7 +70,7 @@ Below is a comprehensive list of commercial livestock management SaaS platforms,
 
 Open-source livestock and farm management software projects provide transparent data modeling, customized field telemetry, and community-driven research models. 
 
-Below are top open-source projects, **sorted by GitHub Stars_Count (descending)**:
+Below are top open-source projects, **sorted by GitHub_Stars_Count (descending)**:
 
 1. **[farmOS](https://github.com/farmOS/farmOS)** [![Stars](https://img.shields.io/github/stars/farmOS/farmOS?style=social&color=white)](https://github.com/farmOS/farmOS/stargazers)  
    🌾 *Web-based application for farm management, crop planning, and animal assets tracking (health, breeding, location, and yields).*
